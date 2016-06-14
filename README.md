@@ -1,2 +1,2 @@
 # hello-world
-An example of a repository.
+This README should help new users understand what it is that we put in our repository.
